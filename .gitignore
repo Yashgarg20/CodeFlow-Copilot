@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment
+backend/.env
+
+# Database
+*.db
+
+# Generated reports
+*.csv
+*.pdf
+
+# Node
+node_modules/
+
+# Build
+dist/
+build/
+
+# VS Code
+.vscode/
